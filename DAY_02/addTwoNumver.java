@@ -12,7 +12,7 @@ public class addTwoNumver {
         int sum = a+b;
         System.out.print("Sum is : " + sum);
         
-        
+        sc.close();
 
     }
 }

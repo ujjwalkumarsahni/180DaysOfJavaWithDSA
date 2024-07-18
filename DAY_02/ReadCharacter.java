@@ -7,5 +7,7 @@ public class ReadCharacter {
         char ch = sc.next().charAt(0);
 
         System.out.println("character : "+ ch);
+
+        sc.close();
     }
 }

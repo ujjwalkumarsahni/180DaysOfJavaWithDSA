@@ -1,0 +1,99 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "dataType_03",
+            "request": "launch",
+            "mainClass": "DAY_01.dataType_03",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "hello_01",
+            "request": "launch",
+            "mainClass": "DAY_01.hello_01",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "variable_02",
+            "request": "launch",
+            "mainClass": "DAY_01.variable_02",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "Operator",
+            "request": "launch",
+            "mainClass": "Operator",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "ReadCharacter",
+            "request": "launch",
+            "mainClass": "ReadCharacter",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "TakingInput",
+            "request": "launch",
+            "mainClass": "TakingInput",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "addTwoNumver",
+            "request": "launch",
+            "mainClass": "addTwoNumver",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "evenodd",
+            "request": "launch",
+            "mainClass": "evenodd",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "simpleInterst",
+            "request": "launch",
+            "mainClass": "simpleInterst",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "switchCase",
+            "request": "launch",
+            "mainClass": "switchCase",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "ternaryEvenOdd",
+            "request": "launch",
+            "mainClass": "ternaryEvenOdd",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "whileloop",
+            "request": "launch",
+            "mainClass": "whileloop",
+            "projectName": "JavaWithDSA_d05275a8"
+        }
+    ]
+}

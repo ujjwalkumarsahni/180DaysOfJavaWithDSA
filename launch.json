@@ -4,7 +4,6 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
         {
             "type": "java",
             "name": "Current File",
@@ -34,65 +33,93 @@
         },
         {
             "type": "java",
-            "name": "Operator",
-            "request": "launch",
-            "mainClass": "Operator",
-            "projectName": "JavaWithDSA_d05275a8"
-        },
-        {
-            "type": "java",
             "name": "ReadCharacter",
             "request": "launch",
-            "mainClass": "ReadCharacter",
+            "mainClass": "DAY_02.ReadCharacter",
             "projectName": "JavaWithDSA_d05275a8"
         },
         {
             "type": "java",
             "name": "TakingInput",
             "request": "launch",
-            "mainClass": "TakingInput",
+            "mainClass": "DAY_02.TakingInput",
             "projectName": "JavaWithDSA_d05275a8"
         },
         {
             "type": "java",
             "name": "addTwoNumver",
             "request": "launch",
-            "mainClass": "addTwoNumver",
-            "projectName": "JavaWithDSA_d05275a8"
-        },
-        {
-            "type": "java",
-            "name": "evenodd",
-            "request": "launch",
-            "mainClass": "evenodd",
+            "mainClass": "DAY_02.addTwoNumver",
             "projectName": "JavaWithDSA_d05275a8"
         },
         {
             "type": "java",
             "name": "simpleInterst",
             "request": "launch",
-            "mainClass": "simpleInterst",
+            "mainClass": "DAY_02.simpleInterst",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "Operator",
+            "request": "launch",
+            "mainClass": "DAY_03.Operator",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "evenodd",
+            "request": "launch",
+            "mainClass": "DAY_03.evenodd",
             "projectName": "JavaWithDSA_d05275a8"
         },
         {
             "type": "java",
             "name": "switchCase",
             "request": "launch",
-            "mainClass": "switchCase",
+            "mainClass": "DAY_03.switchCase",
             "projectName": "JavaWithDSA_d05275a8"
         },
         {
             "type": "java",
             "name": "ternaryEvenOdd",
             "request": "launch",
-            "mainClass": "ternaryEvenOdd",
+            "mainClass": "DAY_03.ternaryEvenOdd",
             "projectName": "JavaWithDSA_d05275a8"
         },
         {
             "type": "java",
             "name": "whileloop",
             "request": "launch",
-            "mainClass": "whileloop",
+            "mainClass": "DAY_03.whileloop",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "DAY_04.forloop",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "numberOfDigit",
+            "request": "launch",
+            "mainClass": "DAY_04.numberOfDigit",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "sumOfDigit",
+            "request": "launch",
+            "mainClass": "DAY_04.sumOfDigit",
+            "projectName": "JavaWithDSA_d05275a8"
+        },
+        {
+            "type": "java",
+            "name": "sumofN",
+            "request": "launch",
+            "mainClass": "DAY_04.sumofN",
             "projectName": "JavaWithDSA_d05275a8"
         }
     ]

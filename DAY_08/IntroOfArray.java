@@ -12,7 +12,7 @@ class Array{
     }
 
     void multiDim(){
-        int[][] arr = new int[3][3];
+        // int[][] arr = new int[3][3];
         int[][] arr2 = {{23,45,77},{54,77,2},{87,54,24}};
 
         // System.out.println(arr2.length);
@@ -27,6 +27,6 @@ public class IntroOfArray{
     public static void main(String args[]){
         Array obj = new Array();
         obj.damoArray();
-        // obj.multiDim();
+        obj.multiDim();
     }
 }

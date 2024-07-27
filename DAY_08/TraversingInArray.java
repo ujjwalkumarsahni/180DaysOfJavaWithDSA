@@ -10,14 +10,14 @@ class Traversing{
         age[4] = 13;
 
         // using for loop
-        for(int i = 0;i<age.length;i++){
-            // System.out.println(age[i]);
-        }
+        // for(int i = 0;i<age.length;i++){
+        //     // System.out.println(age[i]);
+        // }
 
         // using for each loop
-        for(int i : age){
-            // System.out.println(i);
-        }
+        // for(int i : age){
+        //     // System.out.println(i);
+        // }
 
         // using while loop
         int i = 0;
@@ -27,7 +27,7 @@ class Traversing{
         }
     }
     void multiDim(){
-        int[][] arr = new int[3][3];
+        // int[][] arr = new int[3][3];
         int[][] arr2 = {{23,45,77},{54,77,25},{87,54,24}};
 
         // System.out.println(arr2.length);

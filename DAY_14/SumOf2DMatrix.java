@@ -14,7 +14,7 @@ public class SumOf2DMatrix {
     }
 
     static void Add(int[][] arr,int r1,int c1,int[][] arr2,int r2,int c2){
-        if(r1 != r2 || c1 != c2){
+        if(r1 != r2 && c1 != c2){
             System.out.println("worng input addition not possible");
             return;
         }
@@ -62,6 +62,4 @@ public class SumOf2DMatrix {
         sc.close();
     }
 }
-
-
 

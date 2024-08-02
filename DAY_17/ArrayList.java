@@ -16,7 +16,8 @@ public class ArrayList{
         }
 
         System.out.println("Hello World");
-
+        l1.remove(1);
+        System.out.println(l1);
     }
 }
 

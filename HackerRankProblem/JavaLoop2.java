@@ -1,5 +1,5 @@
 import java.util.*;
-import java.io;
+
 public class JavaLoop2{
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);
@@ -15,8 +15,10 @@ public class JavaLoop2{
             }
             System.out.println();
         }
+        
         in.close();
 
         
     }
 }
+

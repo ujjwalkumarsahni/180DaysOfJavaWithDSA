@@ -1,0 +1,707 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayInput",
+            "request": "launch",
+            "mainClass": "ArrayInput",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList",
+            "request": "launch",
+            "mainClass": "ArrayList",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayRecursion",
+            "request": "launch",
+            "mainClass": "ArrayRecursion",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "BlockLevelScope",
+            "request": "launch",
+            "mainClass": "BlockLevelScope",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "dataType_03",
+            "request": "launch",
+            "mainClass": "DAY_01.dataType_03",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "hello_01",
+            "request": "launch",
+            "mainClass": "DAY_01.hello_01",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "variable_02",
+            "request": "launch",
+            "mainClass": "DAY_01.variable_02",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "DAY_04.factorial",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "DAY_04.forloop",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "numberOfDigit",
+            "request": "launch",
+            "mainClass": "DAY_04.numberOfDigit",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "numberOfSeris",
+            "request": "launch",
+            "mainClass": "DAY_04.numberOfSeris",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "pawarOfNumber",
+            "request": "launch",
+            "mainClass": "DAY_04.pawarOfNumber",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "reverseTheNumber",
+            "request": "launch",
+            "mainClass": "DAY_04.reverseTheNumber",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "sumOfDigit",
+            "request": "launch",
+            "mainClass": "DAY_04.sumOfDigit",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "sumofN",
+            "request": "launch",
+            "mainClass": "DAY_04.sumofN",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "RactangularBorderPattern",
+            "request": "launch",
+            "mainClass": "DAY_05.RactangularBorderPattern",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "RactangularPattern",
+            "request": "launch",
+            "mainClass": "DAY_05.RactangularPattern",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "TringularPattern",
+            "request": "launch",
+            "mainClass": "DAY_05.TringularPattern",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "TringularPattern2",
+            "request": "launch",
+            "mainClass": "DAY_05.TringularPattern2",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "pyramidpattern",
+            "request": "launch",
+            "mainClass": "DAY_05.pyramidpattern",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "Arithmatic",
+            "request": "launch",
+            "mainClass": "DAY_07.Arithmatic",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "CreateClass",
+            "request": "launch",
+            "mainClass": "DAY_07.CreateClass",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "StudentClass",
+            "request": "launch",
+            "mainClass": "DAY_07.StudentClass",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "addTwoNuMethod",
+            "request": "launch",
+            "mainClass": "DAY_07.addTwoNuMethod",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "FactorialUsingRecursion",
+            "request": "launch",
+            "mainClass": "FactorialUsingRecursion",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "FindUniqueNumber",
+            "request": "launch",
+            "mainClass": "FindUniqueNumber",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "FirstNaturalUsingRecursion",
+            "request": "launch",
+            "mainClass": "FirstNaturalUsingRecursion",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "FrogJump",
+            "request": "launch",
+            "mainClass": "FrogJump",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "GenerateSpiral",
+            "request": "launch",
+            "mainClass": "GenerateSpiral",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "IntroductionToJava",
+            "request": "launch",
+            "mainClass": "HackerRankProblem.IntroductionToJava",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "JavaIfElse",
+            "request": "launch",
+            "mainClass": "HackerRankProblem.JavaIfElse",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "JavaLoop1",
+            "request": "launch",
+            "mainClass": "HackerRankProblem.JavaLoop1",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "JavaLoop2",
+            "request": "launch",
+            "mainClass": "HackerRankProblem.JavaLoop2",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "JavaOutputFormmating",
+            "request": "launch",
+            "mainClass": "HackerRankProblem.JavaOutputFormmating",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "JavaStdinAndStdout_1",
+            "request": "launch",
+            "mainClass": "HackerRankProblem.JavaStdinAndStdout_1",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "JavaStdinAndStdout_II",
+            "request": "launch",
+            "mainClass": "HackerRankProblem.JavaStdinAndStdout_II",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "IntroOf2DArray",
+            "request": "launch",
+            "mainClass": "IntroOf2DArray",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "IntroOfArray",
+            "request": "launch",
+            "mainClass": "IntroOfArray",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "IsSorted",
+            "request": "launch",
+            "mainClass": "IsSorted",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "KeypadeCombination",
+            "request": "launch",
+            "mainClass": "KeypadeCombination",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "KthMultiple",
+            "request": "launch",
+            "mainClass": "KthMultiple",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "LastOccurences",
+            "request": "launch",
+            "mainClass": "LastOccurences",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearchFindAllIndices",
+            "request": "launch",
+            "mainClass": "LinearSearchFindAllIndices",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearchFindIndex",
+            "request": "launch",
+            "mainClass": "LinearSearchFindIndex",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearchUsingRecursion",
+            "request": "launch",
+            "mainClass": "LinearSearchUsingRecursion",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "MargeSort",
+            "request": "launch",
+            "mainClass": "MargeSort",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "MaxInArrayUsiingRecursion",
+            "request": "launch",
+            "mainClass": "MaxInArrayUsiingRecursion",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "MaximumOfInTheArray",
+            "request": "launch",
+            "mainClass": "MaximumOfInTheArray",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "MaximumValue",
+            "request": "launch",
+            "mainClass": "MaximumValue",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "MethodLevelScope",
+            "request": "launch",
+            "mainClass": "MethodLevelScope",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "MinimumValue",
+            "request": "launch",
+            "mainClass": "MinimumValue",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "MoveZeroInEnd",
+            "request": "launch",
+            "mainClass": "MoveZeroInEnd",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "Multiplay2DMatrix",
+            "request": "launch",
+            "mainClass": "Multiplay2DMatrix",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "NumberSystem",
+            "request": "launch",
+            "mainClass": "NumberSystem",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "Operator",
+            "request": "launch",
+            "mainClass": "Operator",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "PalindromOrNot",
+            "request": "launch",
+            "mainClass": "PalindromOrNot",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "PascalTrangle",
+            "request": "launch",
+            "mainClass": "PascalTrangle",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "PrintNToOneUdingRecursion",
+            "request": "launch",
+            "mainClass": "PrintNToOneUdingRecursion",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "ReadCharacter",
+            "request": "launch",
+            "mainClass": "ReadCharacter",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "RemoveOccurancess",
+            "request": "launch",
+            "mainClass": "RemoveOccurancess",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "RepetingFirstValue",
+            "request": "launch",
+            "mainClass": "RepetingFirstValue",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "ReverseAString",
+            "request": "launch",
+            "mainClass": "ReverseAString",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "ReverseTheArray",
+            "request": "launch",
+            "mainClass": "ReverseTheArray",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "Rotate90DegressClockwise",
+            "request": "launch",
+            "mainClass": "Rotate90DegressClockwise",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "RotateTheGivenArrayKStape",
+            "request": "launch",
+            "mainClass": "RotateTheGivenArrayKStape",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "SearchGivenElementInTheArray",
+            "request": "launch",
+            "mainClass": "SearchGivenElementInTheArray",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "SriesSum",
+            "request": "launch",
+            "mainClass": "SriesSum",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "SumOf2DMatrix",
+            "request": "launch",
+            "mainClass": "SumOf2DMatrix",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "SumOfArray",
+            "request": "launch",
+            "mainClass": "SumOfArray",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigitsUsingRecursion",
+            "request": "launch",
+            "mainClass": "SumOfDigitsUsingRecursion",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "TakingInput",
+            "request": "launch",
+            "mainClass": "TakingInput",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "TakingInput2DArray",
+            "request": "launch",
+            "mainClass": "TakingInput2DArray",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "TargetSum",
+            "request": "launch",
+            "mainClass": "TargetSum",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "TargetTripletSum",
+            "request": "launch",
+            "mainClass": "TargetTripletSum",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "TransportInPlace",
+            "request": "launch",
+            "mainClass": "TransportInPlace",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "TransposeMatrix",
+            "request": "launch",
+            "mainClass": "TransposeMatrix",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "TraversingInArray",
+            "request": "launch",
+            "mainClass": "TraversingInArray",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "addTwoNumver",
+            "request": "launch",
+            "mainClass": "addTwoNumver",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "bubbleSort",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "copyArray",
+            "request": "launch",
+            "mainClass": "copyArray",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "countOccurensses",
+            "request": "launch",
+            "mainClass": "countOccurensses",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "equelSumpartition",
+            "request": "launch",
+            "mainClass": "equelSumpartition",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "evenodd",
+            "request": "launch",
+            "mainClass": "evenodd",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "insertionSort",
+            "request": "launch",
+            "mainClass": "insertionSort",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "prefixSum",
+            "request": "launch",
+            "mainClass": "prefixSum",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "printSpiralOrder",
+            "request": "launch",
+            "mainClass": "printSpiralOrder",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "selectionSort",
+            "request": "launch",
+            "mainClass": "selectionSort",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "simpleInterst",
+            "request": "launch",
+            "mainClass": "simpleInterst",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "sortArrayOneAndZeroes",
+            "request": "launch",
+            "mainClass": "sortArrayOneAndZeroes",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "sortEvenOdd",
+            "request": "launch",
+            "mainClass": "sortEvenOdd",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "sortSquers",
+            "request": "launch",
+            "mainClass": "sortSquers",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "sufeixSum",
+            "request": "launch",
+            "mainClass": "sufeixSum",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "swapTwoNumber",
+            "request": "launch",
+            "mainClass": "swapTwoNumber",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "switchCase",
+            "request": "launch",
+            "mainClass": "switchCase",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "ternaryEvenOdd",
+            "request": "launch",
+            "mainClass": "ternaryEvenOdd",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "whileloop",
+            "request": "launch",
+            "mainClass": "whileloop",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        }
+    ]
+}

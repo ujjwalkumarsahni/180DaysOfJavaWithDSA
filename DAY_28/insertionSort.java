@@ -23,7 +23,7 @@ public class insertionSort {
             }
         }
     }
-
+    
     public static void main(String args[]) {
         int[] arr = {5, 30, 6, 1, 4};
         printArray(arr);

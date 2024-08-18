@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sort012",
+            "request": "launch",
+            "mainClass": "Sort012",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "SortPossNag",
+            "request": "launch",
+            "mainClass": "SortPossNag",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "SortArr",
+            "request": "launch",
+            "mainClass": "SortArr",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
             "name": "BucketSort",
             "request": "launch",
             "mainClass": "BucketSort",

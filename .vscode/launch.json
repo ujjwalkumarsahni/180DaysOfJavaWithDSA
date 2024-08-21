@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindSquearRoot",
+            "request": "launch",
+            "mainClass": "FindSquearRoot",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "FirstOccurence",
+            "request": "launch",
+            "mainClass": "FirstOccurence",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
             "name": "BinarySearch",
             "request": "launch",
             "mainClass": "BinarySearch",

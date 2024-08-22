@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindMinimum",
+            "request": "launch",
+            "mainClass": "FindMinimum",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
             "name": "FindSquearRoot",
             "request": "launch",
             "mainClass": "FindSquearRoot",

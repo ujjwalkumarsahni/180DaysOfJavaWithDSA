@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PeakIndexInMountainArray",
+            "request": "launch",
+            "mainClass": "PeakIndexInMountainArray",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "Search2DMatrix_II",
+            "request": "launch",
+            "mainClass": "Search2DMatrix_II",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "Search2DMatrix",
+            "request": "launch",
+            "mainClass": "LeetCode.Search2DMatrix",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
+            "name": "Search2DMatrix",
+            "request": "launch",
+            "mainClass": "Search2DMatrix",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
             "name": "RotatedSortedArray",
             "request": "launch",
             "mainClass": "RotatedSortedArray",

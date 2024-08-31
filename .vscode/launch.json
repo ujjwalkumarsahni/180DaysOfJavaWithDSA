@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OOPS_StudentClass",
+            "request": "launch",
+            "mainClass": "OOPS_StudentClass",
+            "projectName": "180DaysOfJavaWithDSA_d5f0a7b5"
+        },
+        {
+            "type": "java",
             "name": "PeakIndexInMountainArray",
             "request": "launch",
             "mainClass": "PeakIndexInMountainArray",

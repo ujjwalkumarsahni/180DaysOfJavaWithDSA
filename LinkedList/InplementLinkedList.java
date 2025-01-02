@@ -90,6 +90,23 @@ public class InplementLinkedList{
             }
             return count;
         }
+
+
+        // Delete the given node 
+        void DeleteNode(Node temp){
+            temp.data = temp.next.data;
+            temp.next = temp.next.next;
+        }
+        
+        // Helper method to find a node by value (for demonstration purposes)
+        Node findNode(int value) {
+            Node temp = head;
+            while (temp != null && temp.data != value) {
+                temp = temp.next;
+            }
+            return temp;
+        }
+
     }
     public static void main(String args[]){
         linkedlist ll = new linkedlist();
@@ -112,6 +129,16 @@ public class InplementLinkedList{
 
 
         System.out.println( ll.getAt(6));
+
+         // Find the node with value 8 and delete it
+         Node nodeToDelete = ll.findNode(8);
+         ll.DeleteNode(nodeToDelete);
+ 
+         ll.display();
+         Node nodeToDelete2 = ll.findNode(9);
+         ll.DeleteNode(nodeToDelete2);
+ 
+         ll.display();
 
        
 
